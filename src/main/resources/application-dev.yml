@@ -1,0 +1,5 @@
+spring:
+  message: App running in Dev Environment
+
+server:
+  port: 3000
